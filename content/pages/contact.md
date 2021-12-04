@@ -15,13 +15,12 @@ meta:
   description: This is a meta description.
   title: Contact Page
 ---
-
-# Example contact form
+# contact formhttps://instagram.com/myself_rishiraj<https://instagram.com/myself_rishiraj?utm_medium=copy_link>
 
 T
 
-- the form action is set to the current absolute url: `action: '/contact/'`
-[Netlify Docs](https://www.netlify.com/docs/form-handling/).
-- netlify data attributes are added to the form `data-netlify data-netlify-hone[Netlify Docs](https://www.netlify.com/docs/form-handling/).
+* t`action:`
+  [N](https://www.netlify.com/docs/form-handling/)honeNetlif
+* e form `data-netlify data-netlify-honeNetlif[Netlify Docs](https://www.netlify.com/docs/form-handling/).
 
-Find out more in the [Netlify Docs](https://www.netlify.com/docs/form-handling/).
+F[Netlify D](https://www.netlify.com/docs/form-handling/).
