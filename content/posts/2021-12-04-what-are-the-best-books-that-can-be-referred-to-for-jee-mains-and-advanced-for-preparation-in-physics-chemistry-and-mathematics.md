@@ -8,6 +8,7 @@ featuredImage: https://ucarecdn.com/6c339688-178f-42f8-8199-0384c259dbb7/
 excerpt: Myselfrishi
 categories:
   - category: Updates
+  - category: Physics
 ---
 JEE MATHEMATICS
 
