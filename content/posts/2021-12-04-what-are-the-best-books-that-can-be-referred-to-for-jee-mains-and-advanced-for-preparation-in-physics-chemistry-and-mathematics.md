@@ -6,6 +6,8 @@ status: Published
 date: 2021-12-04
 featuredImage: https://ucarecdn.com/6c339688-178f-42f8-8199-0384c259dbb7/
 excerpt: Myselfrishi
+categories:
+  - category: Updates
 ---
 JEE MATHEMATICS
 
