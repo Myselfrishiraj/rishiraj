@@ -1,7 +1,6 @@
 ---
 template: SinglePost
-title: What are the best books that can be referred to, for JEE Mains and
-  Advanced for preparation in Physics, Chemistry and Mathematics?
+title: Best book
 status: Published
 date: 2021-12-04
 featuredImage: https://ucarecdn.com/6c339688-178f-42f8-8199-0384c259dbb7/
